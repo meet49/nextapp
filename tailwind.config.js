@@ -12,6 +12,10 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      animation: {
+        myfirst: 'myfirst 5s 1 normal',
+        mysecond: 'mysecond 5s 1 normal',
+      },
     },
   },
   plugins: [],
