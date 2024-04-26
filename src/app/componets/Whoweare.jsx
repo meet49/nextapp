@@ -9,7 +9,7 @@ function Whoweare() {
   return (
     <div className="my-20 sm:ml-16 mb-20 lg:mb-0">
       <div className="bg-[url('../../public/bg1.png')] bg-no-repeat bg-cover sm:h-fit xl:h-screen flex lg:justify-between relative md:p-10">
-        <div className="lg:w-[50%] w-[80%] left-10 opacity-15 lg:opacity-100 absolute lg:relative">
+        <div className="lg:w-[50%] w-[80%] top-0 lg:left-0 opacity-15 lg:opacity-100 absolute lg:relative">
           <Image src={w6} />
         </div>
         <div className="w-[100%] lg:w-[50%] px-[3%] pt-[2%] 2xl:pr-[11%]  flex flex-col justify-start items-center lg:items-start">

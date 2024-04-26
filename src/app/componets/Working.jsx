@@ -22,7 +22,7 @@ function Working() {
           overturning damage made due to climate change.
         </p>
       </div>
-      <div className="lg:h-screen w-[100%] flex items-center lg:justify-around px-10 pb-40 lg:flex-row flex-col ">
+      <div className="lg:h-screen w-[100%] flex items-center gap-40 sm:gap-0 lg:justify-around px-10 pb-40 lg:flex-row flex-col ">
         
 
         <div className="w-[25%] h-[489px] flex flex-col justify-between mt-[5%] animate-mysecond">
