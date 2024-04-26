@@ -70,43 +70,43 @@ const Client = () => {
           modules={[Navigation, Pagination, Mousewheel, Keyboard, Autoplay]}
         >
           <SwiperSlide className="px-11">
-            <Image src={c1} />
+            <Image src={c1} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c2} />
+            <Image src={c2} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c3} />
+            <Image src={c3} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c4} />
+            <Image src={c4} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c5} />
+            <Image src={c5} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c6} />
+            <Image src={c6} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c7} />
+            <Image src={c7} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c9} />
+            <Image src={c9} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c10} />
+            <Image src={c10} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c11} />
+            <Image src={c11} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c12} />
+            <Image src={c12} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c13} />
+            <Image src={c13} alt=""/>
           </SwiperSlide>
           <SwiperSlide className="px-11">
-            <Image src={c14} />
+            <Image src={c14} alt=""/>
           </SwiperSlide>
          
         </Swiper>

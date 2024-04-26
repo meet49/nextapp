@@ -24,20 +24,20 @@ function Footer() {
       </div>
       <div className="bg-[#1F1F1F] flex justify-around flex-wrap pt-[90%] sm:pt-[50%] md:pt-[40%] lg:pt-[10%] px-10  lg:px-0 gap-5 xl:h-[473px]">
         <div className="flex flex-col gap-4">
-          <Image src={logo} />
+          <Image src={logo} alt=""/>
           <div className="flex gap-2">
-            <Image src={location} className="h-[25px] w-[17px]" />
+            <Image src={location} className="h-[25px] w-[17px]" alt=""/>
             <p className="text-lg text-[#898989] sm:w-[384px]">
               Shreeji plaza, 201, Main Rd, Valkeshwari, Park Colony, Jamnagar,
               Gujarat 361008
             </p>
           </div>
           <div className="flex gap-2">
-            <Image src={call} className="h-[25px] w-[19px]" />
+            <Image src={call} className="h-[25px] w-[19px]" alt=""/>
             <p className="text-lg text-[#898989]">(+91) 89802 30024</p>
           </div>
           <div className="flex gap-2">
-            <Image src={mail} className="h-[25px] w-[19px]" />
+            <Image src={mail} className="h-[25px] w-[19px]" alt=""/>
             <p className="text-lg text-[#898989]">info@operaenergy.in</p>
           </div>
         </div>
@@ -46,27 +46,27 @@ function Footer() {
           <div className="text-[#898989] text-xl">
             <ul className="flex flex-col gap-2">
               <li>
-                <Image src={f1} className="w-[18px] h-[20px] inline" />
+                <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
                 <p className="inline">About</p>
               </li>
               <li>
-                <Image src={f1} className="w-[18px] h-[20px] inline" />
+                <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
                 <p className="inline">Turn Key EPC Services</p>
               </li>
               <li>
-                <Image src={f1} className="w-[18px] h-[20px] inline" />
+                <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
                 <p className="inline">Executed Project</p>
               </li>
               <li>
-                <Image src={f1} className="w-[18px] h-[20px] inline" />
+                <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
                 <p className="inline">Captive / Group Captive</p>
               </li>
               <li>
-                <Image src={f1} className="w-[18px] h-[20px] inline" />
+                <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
                 <p className="inline">Career</p>
               </li>
               <li>
-                <Image src={f1} className="w-[18px] h-[20px] inline" />
+                <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
                 <p className="inline">Blog</p>
               </li>
             </ul>
@@ -75,31 +75,31 @@ function Footer() {
         <div className="text-[#898989] text-xl">
           <ul className="flex flex-col gap-2">
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Capex (EPC Model)</p>
             </li>
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Captive Project Pipeline</p>
             </li>
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Energy Storage</p>
             </li>
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Third-Party Power Sale</p>
             </li>
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Our Clients</p>
             </li>
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Privacy Policy</p>
             </li>
             <li>
-              <Image src={f1} className="w-[18px] h-[20px] inline" />
+              <Image src={f1} className="w-[18px] h-[20px] inline" alt=""/>
               <p className="inline">Contact Us</p>
             </li>
           </ul>
@@ -107,23 +107,23 @@ function Footer() {
         <div className="text-[#898989] text-xl">
           <ul className="flex flex-col gap-4">
             <li>
-              <Image src={f2} className="w-[18px] h-[20px] inline mr-2" />
+              <Image src={f2} className="w-[18px] h-[20px] inline mr-2" alt=""/>
               <p className="inline">Facebook</p>
             </li>
             <li>
-              <Image src={f3} className="w-[18px] h-[20px] inline mr-2" />
+              <Image src={f3} className="w-[18px] h-[20px] inline mr-2" alt=""/>
               <p className="inline">Twitter</p>
             </li>
             <li>
-              <Image src={f4} className="w-[18px] h-[20px] inline mr-2" />
+              <Image src={f4} className="w-[18px] h-[20px] inline mr-2" alt=""/>
               <p className="inline">LinkedIn</p>
             </li>
             <li>
-              <Image src={f5} className="w-[18px] h-[20px] inline mr-2" />
+              <Image src={f5} className="w-[18px] h-[20px] inline mr-2" alt=""/>
               <p className="inline">Instagram</p>
             </li>
             <li>
-              <Image src={f6} className="w-[18px] h-[20px] inline mr-2" />
+              <Image src={f6} className="w-[18px] h-[20px] inline mr-2" alt=""/>
               <p className="inline">Youtube</p>
             </li>
           </ul>

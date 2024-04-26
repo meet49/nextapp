@@ -11,7 +11,7 @@ function Banner() {
         </p>
         <p className="text-white sm:w-[100%] xl:w-[55%]">   
           Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard.
+          industry. Lorem Ipsum has been the industry&apos;s standard.
         </p>
         <div className="bg-[#FFFFFF] rounded-lg w-[155px] h-[52px] flex justify-center items-center">
           <p className="font-semibold text-lg text-[#009846] ">Read More</p>

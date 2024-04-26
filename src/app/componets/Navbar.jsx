@@ -34,7 +34,7 @@ function Navbar() {
 
   return (
     <div className="bg-white flex justify-around font-medium">
-      <Image src={logo} />
+      <Image src={logo}  alt=""/>
       {menuOpen ? (
         <div className="lg:hidden bg-white flex items-center justify-end mx-1">
           <button
@@ -161,6 +161,7 @@ function Navbar() {
         <div className="flex gap-2 justify-center items-center">
           <Image
             src={getFlagSrc()}
+            alt=""
             className="h-8 w-8"
             width={"32"}
             height={"32"}

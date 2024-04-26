@@ -11,7 +11,7 @@ function Working() {
     <div>
       <div className="flex flex-col justify-center items-center pt-10">
         <div>
-          <Image src={w3} className="inline pr-2" />
+          <Image src={w3} className="inline pr-2" alt=""/>
           <p className="font-medium text-2xl inline italic">WORKING PROCESS</p>
         </div>
         <p className="text-[52px] font-medium">
@@ -30,7 +30,7 @@ function Working() {
             1<p className="text-2xl font-medium inline">Step</p>
           </b>
           <div className=" flex flex-col justify-center items-center">
-            <Image src={p1} className="w-[117px] h-[154px]" />
+            <Image src={p1} className="w-[117px] h-[154px]" alt=""/>
             <p className="font-semibold text-[28px] text-center">
               Consult With Us
             </p>
@@ -46,7 +46,7 @@ function Working() {
             2<p className="text-2xl font-medium inline">Step</p>
           </b>
           <div className=" flex flex-col justify-center items-center">
-            <Image src={p2} className="w-[117px] h-[153px]" />
+            <Image src={p2} className="w-[117px] h-[153px]" alt=""/>
             <p className="font-semibold text-[28px] text-center">
               Generate Power
             </p>
@@ -62,7 +62,7 @@ function Working() {
             3<p className="text-2xl font-medium inline">Step</p>
           </b>
           <div className=" flex flex-col justify-center items-center">
-            <Image src={p3} className="w-[105px] h-[140px]" />
+            <Image src={p3} className="w-[105px] h-[140px]" alt=""/>
             <p className="font-semibold text-[28px] text-center">
               Store The Power
             </p>
@@ -78,7 +78,7 @@ function Working() {
             4<p className="text-2xl font-medium inline">Step</p>
           </b>
           <div className=" flex flex-col justify-center items-center">
-            <Image src={p4} className="w-[105px] h-[155px]" />
+            <Image src={p4} className="w-[105px] h-[155px]" alt=""/>
             <p className="font-semibold text-[28px] text-center">
               Use It Flexibly
             </p>

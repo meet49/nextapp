@@ -12,7 +12,7 @@ function Blog() {
     <div className="py-10">
       <div className="flex flex-col justify-center items-center pb-10">
         <div>
-          <Image src={w3} className="inline pr-2" />
+          <Image src={w3} alt="" className="inline pr-2" />
           <p className="font-medium text-2xl inline italic">OUR BLOG</p>
         </div>
         <p className="text-[52px] font-medium">
@@ -21,7 +21,7 @@ function Blog() {
       </div>
       <div className="flex gap-5 px-10 justify-center items-center flex-wrap lg:flex-nowrap">
         <div className="bg-[#EDEDED] flex flex-wrap lg:flex-nowrap justify-center items-center lg:items-start relative">
-          <Image src={b1} />
+          <Image src={b1} alt=""/>
           <div className="pt-5 pl-5">
             <p className="text-lg text-[#666666]">21, January, 2023</p>
             <p className="text-[#599537] font-semibold text-2xl">
@@ -32,13 +32,13 @@ function Blog() {
               of a page.
             </p>
             <p className="text-[#1F1F1F] text-lg inline-flex">
-              Read More <Image src={b3} />
+              Read More <Image src={b3} alt=""/>
             </p>
           </div>
-          <Image src={b4} className="absolute left-[-2%] top-[40%] hidden lg:block"/>
+          <Image src={b4} alt="" className="absolute left-[-2%] top-[40%] hidden lg:block"/>
         </div>
         <div className="bg-[#EDEDED] flex flex-wrap lg:flex-nowrap justify-center items-center lg:items-start relative">
-          <Image src={b2} />
+          <Image src={b2} alt=""/>
           <div className="pt-5 pl-5">
             <p className="text-lg text-[#666666]">21, January, 2023</p>
             <p className="text-[#599537] font-semibold text-2xl">
@@ -49,10 +49,10 @@ function Blog() {
               of a page.
             </p>
             <p className="text-[#1F1F1F] text-lg inline-flex">
-              Read More <Image src={b3} />
+              Read More <Image src={b3} alt=""/>
             </p>
           </div>
-          <Image src={b5} className="absolute right-[-2%] top-[40%] hidden lg:block"/>
+          <Image src={b5} alt="" className="absolute right-[-2%] top-[40%] hidden lg:block"/>
 
         </div>
       </div>
